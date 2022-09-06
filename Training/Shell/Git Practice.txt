@@ -1,0 +1,341 @@
+Script started on 2022-09-06 08:24:58+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="144" LINES="33"]
+[?2004h]0;root@TIGER03914: /root@TIGER03914:/# nan[K[K[Kls
+[?2004l[0m[01;36mbin[0m  [01;34mboot[0m  [01;34mdev[0m  [01;34metc[0m  [01;34mhome[0m  [01;32minit[0m  [01;36mlib[0m  [01;36mlib32[0m  [01;36mlib64[0m  [01;36mlibx32[0m  [01;34mlost+found[0m  [01;34mmedia[0m  [01;34mmnt[0m  [01;34mopt[0m  [01;34mproc[0m  [01;34mroot[0m  [01;34mrun[0m  [01;36msbin[0m  [01;34msnap[0m  [01;34msrv[0m  [01;34msys[0m  [30;42mtmp[0m  [01;34musr[0m  [01;34mvar[0m
+[?2004h]0;root@TIGER03914: /root@TIGER03914:/# cd root
+[?2004l[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# ls
+[?2004lArpit_shell.txt  Arpit_shell2.txt  [0m[40;31;01mDesktop[0m  [40;31;01mDocuments[0m  [40;31;01mDownloads[0m  [40;31;01mMusic[0m  [40;31;01mPictures[0m  [40;31;01mPublic[0m  [40;31;01mTemplates[0m  [40;31;01mVideos[0m  [01;34mminiconda3[0m  [01;34msnap[0m
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# down[K[K[K[Knano test.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;33r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[31;67H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                                                        test.txt                                                                  [1;143H(B[m[32d(B[0;7m^G(B[m Help[32;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[32;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[32;113H(B[0;7mM-A(B[m Set Mark    (B[0;7mM-](B[m To Bracket[33d(B[0;7m^X(B[m Exit[33;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[33;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[33;113H(B[0;7mM-6(B[m Copy[33;129H(B[0;7m^Q(B[m Where Was[2d[?12l[?25h[?25l[31d[K[1;80H(B[0;7m*[143G(B[m[2dThe Tao that is seen[3dIs not the true Tao, until[4dYou bring fresh toner.[6dWith searching comes loss[7dand the presence of absence:[8d"My Thesis" not found.[10dYesterday it worked[11dToday it is not working[12dSoftware is like that.[?12l[?25h[?25l[32;17H[20X[32;37H(B[0;7mM-D(B[m DOS Format    [32;65H        (B[0;7mM-A(B[m Append[26X[32;109H(B[0;7mM-B(B[m Backup File[K[33;2H(B[0;7mC(B[m Cancel[17G[20X[33;37H(B[0;7mM-M(B[m Mac Format      [33;65H        (B[0;7mM-P(B[m Prepend[25X[33;109H(B[0;7m^T(B[m Browse[K[31d(B[0;7mFile Name to Write: test.txt                                                                                                                    [31;29H(B[m[?12l[?25h[?25l[31;65H[1K (B[0;7m[ Writing... ](B[m[K[1;80H(B[0;7m [143G(B[m[31;64H(B[0;7m[ Wrote 11 lines ](B[m[32;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[32;65H(B[0;7m^T(B[m Execute      (B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo        (B[0;7mM-A(B[m Set Mark    (B[0;7mM-](B[m To Bracket[33;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste[33;65H(B[0;7m^J(B[m Justify      (B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo        (B[0;7mM-6(B[m Copy[33;129H(B[0;7m^Q(B[m Where Was[?12l[?25h[12;23H[?25l[31d[J[33d[?12l[?25h[33;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# grep not test.txt 
+[?2004lIs [01;31m[Knot[m[K the true Tao, until
+"My Thesis" [01;31m[Knot[m[K found.
+Today it is [01;31m[Knot[m[K working
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# grep[K[K[K[Kgrep n[K-n - [Kw -i "the" test.txt 
+[?2004l[32m[K1[m[K[36m[K:[m[K[01;31m[KThe[m[K Tao that is seen
+[32m[K2[m[K[36m[K:[m[KIs not [01;31m[Kthe[m[K true Tao, until
+[32m[K6[m[K[36m[K:[m[Kand [01;31m[Kthe[m[K presence of absence:
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# grep -n -w -i "the" test.txt [1P[1@v
+[?2004l[32m[K1[m[K[36m[K:[m[KThe Tao that is seen
+[32m[K3[m[K[36m[K:[m[KYou bring fresh toner.
+[32m[K4[m[K[36m[K:[m[K
+[32m[K5[m[K[36m[K:[m[KWith searching comes loss
+[32m[K7[m[K[36m[K:[m[K"My Thesis" not found.
+[32m[K8[m[K[36m[K:[m[K
+[32m[K9[m[K[36m[K:[m[KYesterday it worked
+[32m[K10[m[K[36m[K:[m[KToday it is not working
+[32m[K11[m[K[36m[K:[m[KSoftware is like that.
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# [K]0;root@TIGER03914: ~root@TIGER03914:~# [K]0;root@TIGER03914: ~root@TIGER03914:~# [K]0;root@TIGER03914: ~root@TIGER03914:~# [K]0;root@TIGER03914: ~root@TIGER03914:~# [K]0;root@TIGER03914: ~root@TIGER03914:~# git
+[?2004lusage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone     Clone a repository into a new directory
+   init      Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add       Add file contents to the index
+   mv        Move or rename a file, a directory, or a symlink
+   restore   Restore working tree files
+   rm        Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect    Use binary search to find the commit that introduced a bug
+   diff      Show changes between commits, commit and working tree, etc
+   grep      Print lines matching a pattern
+   log       Show commit logs
+   show      Show various types of objects
+   status    Show the working tree status
+
+grow, mark and tweak your common history
+   branch    List, create, or delete branches
+   commit    Record changes to the repository
+   merge     Join two or more development histories together
+   rebase    Reapply commits on top of another base tip
+   reset     Reset current HEAD to the specified state
+   switch    Switch branches
+   tag       Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch     Download objects and refs from another repository
+   pull      Fetch from and integrate with another repository or a local branch
+   push      Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# git config -- [Klist
+[?2004l[?1h=[K[?1l>[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# [K]0;root@TIGER03914: ~root@TIGER03914:~# git config --list --show-origin
+[?2004l[?1h=[K[?1l>[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# git --version
+[?2004lgit version 2.34.1
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# [7msudo apt get install git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt get install git[C[1P[1@-
+[?2004lReading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+git is already the newest version (1:2.34.1-1ubuntu1.4).
+The following package was automatically installed and is no longer required:
+  libfreetype6
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 24 not upgraded.
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# g[Kit [K[K[Kh[Kg[Kclear
+[?2004l[H[2J[3J[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# git hre[K[Kelp config
+[?2004l[?1049h[22;0;0t[?1h=GIT-CONFIG(1)                Git Manual                GIT-CONFIG(1)[m
+[m
+[1mNAME[0m[m
+       git-config - Get and set repository or global options[m
+[m
+[1mSYNOPSIS[0m[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] [--s[m how-origin] [--show-scope] [-z|--null] name [value [value-pattern]][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] --add name value[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] --re[m place-all name value [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--s[m how-scope] [-z|--null] [--fixed-value] --get name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--s[m how-scope] [-z|--null] [--fixed-value] --get-all name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--s[m how-scope] [-z|--null] [--fixed-value] [--name-only] --get-regexp name[m _regex [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [-z|--null] --get-ur[m lmatch name URL[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--fixed-value] --unset name [value-[m pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--fixed-value] --unset-all name [va[m lue-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] --rename-section old_name new_name[m
+       [4mgit[24m [4mconfig[24m [<file-option>] --remove-section name[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--show-origin] [--show-scope] [-z|-[m -null] [--name-only] -l | --list[m
+       [4mgit[24m [4mconfig[24m [<file-option>] --get-color name [default][m
+       [4mgit[24m [4mconfig[24m [<file-option>] --get-colorbool name [stdout-is-tty][m
+       [4mgit[24m [4mconfig[24m [<file-option>] -e | --edit[m
+[7m Manual page git-config(1) line 1 (press h for help or q to quit)[27m[K[K[m
+[7m Manual page git-config(1) line 2 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# ls
+[?2004lArpit_shell.txt   [0m[40;31;01mDocuments[0m  [40;31;01mPictures[0m   [40;31;01mVideos[0m      test.txt
+Arpit_shell2.txt  [40;31;01mDownloads[0m  [40;31;01mPublic[0m     [01;34mminiconda3[0m
+[40;31;01mDesktop[0m           [40;31;01mMusic[0m      [40;31;01mTemplates[0m  [01;34msnap[0m
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# mkdir git practice
+[?2004l[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# ls[Cs
+[?2004lCommand 'lss' not found, did you mean:
+  command 'lssu' from deb nilfs-tools (2.2.8-1)
+  command 'lsns' from deb util-linux (2.37.2-4ubuntu3)
+  command 'lsc' from deb livescript (1.6.1+dfsg-2)
+  command 'lrs' from deb lrslib (0.71a-1)
+  command 'ss' from deb iproute2 (5.15.0-1ubuntu2)
+  command 'lsw' from deb suckless-tools (46-1)
+  command 'gss' from deb libgss-dev (1.0.3-7)
+  command 'ls' from deb coreutils (8.32-4.1ubuntu1)
+  command 'ass' from deb irpas (0.10-9)
+  command 'lsh' from deb lsh-client (2.1-13)
+  command 'less' from deb less (590-1build1)
+  command 'lsm' from deb lsm (1.0.4-2)
+  command 'lvs' from deb lvm2 (2.03.11-2.1ubuntu4)
+  command 'iss' from deb insilicoseq (1.5.4-2)
+  command 'les' from deb atm-tools (1:2.5.1-4build2)
+Try: apt install <deb name>
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# ls
+[?2004lArpit_shell.txt   [0m[40;31;01mDocuments[0m  [40;31;01mPictures[0m   [40;31;01mVideos[0m      [01;34mpractice[0m
+Arpit_shell2.txt  [40;31;01mDownloads[0m  [40;31;01mPublic[0m     [01;34mgit[0m         [01;34msnap[0m
+[40;31;01mDesktop[0m           [40;31;01mMusic[0m      [40;31;01mTemplates[0m  [01;34mminiconda3[0m  test.txt
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# rm f[Kgit
+[?2004lrm: cannot remove 'git': Is a directory
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# rm git-gitrgit git
+[?2004l[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# rm -r git[K[K[Kpractiv[Kce
+[?2004l[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# rm -r practice[5Pgit[3Pgit[4Plssmkdir git practice[1Ppractice-practice
+[?2004l[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# ls
+[?2004lArpit_shell.txt   [0m[40;31;01mDocuments[0m  [40;31;01mPictures[0m   [40;31;01mVideos[0m        [01;34msnap[0m
+Arpit_shell2.txt  [40;31;01mDownloads[0m  [40;31;01mPublic[0m     [01;34mgit-practice[0m  test.txt
+[40;31;01mDesktop[0m           [40;31;01mMusic[0m      [40;31;01mTemplates[0m  [01;34mminiconda3[0m
+[?2004h]0;root@TIGER03914: ~root@TIGER03914:~# cd gitq[K-practice/
+[?2004l[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# clear
+[?2004l[H[2J[3J[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# [K]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# [K]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git init
+[?2004l[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /root/git-practice/.git/
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git add hello.c
+[?2004lfatal: pathspec 'hello.c' did not match any files
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git add hello.c[C[C[C[1P.c[1P.c[1P.c[1P.c[1P.c[1P.c .c*.c[C[C
+[?2004lfatal: pathspec '*.c' did not match any files
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git s[Kadd LICENCE[K[KSE
+[?2004lfatal: pathspec 'LICENSE' did not match any files
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# cls
+[?2004lCommand 'cls' not found, but there are 18 similar ones.
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# clear
+[?2004l[H[2J[3J[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git status
+[?2004lOn branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# anao[K[K[K[Knano test.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;32r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[30;30H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                   test.txt                             [1;69H(B[m[31d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[31;57H(B[0;7m^T(B[m Execute[32d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[1;43H(B[0;7m*[69G(B[m[?12l[?25h[2dH[?25l[?12l[?25he[?25l[?12l[?25hl[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25hi[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25hi[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25ho[?25l[?12l[?25h [?25l[?12l[?25hm[?25l[?12l[?25ha[?25l[30d[K[?12l[?25h[2;20Hk[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25hf[?25l[?12l[?25hi[?25l[?12l[?25hr[?25l[?12l[?25hs[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hp[?25l[?12l[?25hu[?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[3d[?12l[?25h[?25l[2;37H[?12l[?25h[?25l[?12l[?25h.[?25l[31;15H   (B[0;7mM-D(B[m DOS Format   (B[0;7mM-A(B[m Append       (B[0;7mM-B(B[m Backup Fil[32;2H(B[0;7mC(B[m Cancel        (B[0;7mM-M(B[m Mac Format   (B[0;7mM-P(B[m Prepend      (B[0;7m^T(B[m Browse[K[30d(B[0;7mFile Name to Write: test.txt                                          [30;29H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;43H(B[0;7m [69G(B[m[30;28H(B[0;7m[ Wrote 1 line ](B[m[31;15H(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut        (B[0;7m^T(B[m Execut[32;2H(B[0;7mX(B[m Exit       (B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste      (B[0;7m^J(B[m Justify[?12l[?25h[2;38H[?25l[31;15H   (B[0;7mM-D(B[m DOS Format   (B[0;7mM-A(B[m Append       (B[0;7mM-B(B[m Backup Fil[32;2H(B[0;7mC(B[m Cancel        (B[0;7mM-M(B[m Mac Format   (B[0;7mM-P(B[m Prepend      (B[0;7m^T(B[m Browse[K[30d(B[0;7mFile Name to Write: test.txt                                          [30;29H(B[m[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;69H[30;28H(B[0;7m[ Wrote 1 line ](B[m[31;15H(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut        (B[0;7m^T(B[m Execut[32;2H(B[0;7mX(B[m Exit       (B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste      (B[0;7m^J(B[m Justify[?12l[?25h[2;38H[?25l[30d[J[32d[?12l[?25h[32;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git add test.txt [K
+[?2004l[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git commit -m ""F"i"r"s"t" "[1P"[1P"[1P"[1P"[1P"[1P"[K[C"I"n"d"i"[1P"[1P"i"t"i"a"l" "P"r"o"j"e"c"t" "v"e"r"s"i"o" [A]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C
+[?2004l[master (root-commit) 7c8c8c9] Initial Project version
+ Committer: root <root@TIGER03914.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 test.txt
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# girt[K[Kt status
+[?2004lOn branch master
+nothing to commit, working tree clean
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# echo ""m"y"[1P"[1P"M"y" "p"r"o"j"e"c"t" "[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"P"r"o"j"e"c"t" "[1P"[C > README
+[?2004l[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git status
+[?2004lOn branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git add README
+[?2004l[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git sat[K[Ktatus
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   README[m
+
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git statusadd README[4Pstatusecho "My Project" > README[16Pgit statuscommit -m "Initial Project version"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C Project version" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1@2[1@n[1@d[C[1@ [1P
+[?2004l[master 144fd12] 2nd Project version
+ Committer: root <root@TIGER03914.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git status -s
+[?2004l[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git giff
+[?2004lgit: 'giff' is not a git command. See 'git --help'.
+
+The most similar command is
+	diff
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git giff[K[K[K[Kdiff
+[?2004l[?1h=[K[?1l>[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# echo ""h"e"l"l"o"[C > garbage
+[?2004l[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git status
+[?2004lOn branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mgarbage[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# got[K[Kit add garbagr[Ke
+[?2004l[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git add garbage[5Pstatusecho "hello" > garbage[14Pgit diffgiffstatus -scommit -m "2nd Project version"status[Kcommit -m "2nd Project version"[1P[1@3
+[?2004l[master cbced2c] 3nd Project version
+ Committer: root <root@TIGER03914.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 garbage
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# rm garbage 
+[?2004l[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git ts[K[Kstatus
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    garbage[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git statusrm garbage git commit -m "3nd Project version"[1P[1P[1@r[1@d
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    garbage[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git t[Kstatus
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    garbage[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git vommit [K[K[K[K[K[K[Kcommit -a
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;32r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[30;29H(B[0;7m[ Reading... ](B[m[30;27H(B[0;7m[ Read 10 lines ](B[m[H(B[0;7m  GNU nano 6.2    /root/git-practice/.git/COMMIT_EDITMSG              [1;69H(B[m[31d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[31;57H(B[0;7m^T(B[m Execute[32d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify[3d[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# Committer: root <root@TIGER03914.tigeranalytics.local>[7d#[8d# On branch master[9d# Changes to be committed:[10d#[38;5;208m       [36mdeleted:    garbage[11d#[2d[39m(B[m[?12l[?25h[?25l[1;58H(B[0;7m*[69G(B[m7[2;29r8[2dM[1;32r[3;1H[?12l[?25h[?25l[2;29r[29;1H
+[1;32r[2;1H[?12l[?25h[?25l[30d(B[0;7mSave modified buffer?                                                 [31;1H Y(B[m Yes[K[32d(B[0;7m N(B[m No  [15G  (B[0;7m^C(B[m Cancel[K[30;23H[?12l[?25h[?25l[31d(B[0;7m^G(B[m Help[31;18H(B[0;7mM-D(B[m DOS Format   (B[0;7mM-A(B[m Append[52G(B[0;7mM-B(B[m Backup File[32d(B[0;7m^C(B[m Cancel[17G (B[0;7mM-M(B[m Mac Format   (B[0;7mM-P(B[m Prepend[52G(B[0;7m^T(B[m Browse[30d(B[0;7mFile Name to Write: /root/git-practice/.git/COMMIT_EDITMSG(B[m[?12l[?25h[?25l[30;28H[1K (B[0;7m[ Writing... ](B[m[K[1;58H(B[0;7m [69G(B[m[30;27H(B[0;7m[ Wrote 10 lines ](B[m[J[32d[?12l[?25h[32;1H[?1049l[23;0;0t[?1l>[?2004l[KAborting commit due to empty commit message.
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git commit -a
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;32r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[30;29H(B[0;7m[ Reading... ](B[m[30;27H(B[0;7m[ Read 10 lines ](B[m[H(B[0;7m  GNU nano 6.2    /root/git-practice/.git/COMMIT_EDITMSG              [1;69H(B[m[31d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[31;57H(B[0;7m^T(B[m Execute[32d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify[3d[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# Committer: root <root@TIGER03914.tigeranalytics.local>[7d#[8d# On branch master[9d# Changes to be committed:[10d#[38;5;208m       [36mdeleted:    garbage[11d#[2d[39m(B[m[?12l[?25h[?25l[1;58H(B[0;7m*[69G(B[m[?12l[?25h[2dd[?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[?12l[?25he[?25l[31;15H   (B[0;7mM-D(B[m DOS Format   (B[0;7mM-A(B[m Append       (B[0;7mM-B(B[m Backup Fil[32;2H(B[0;7mC(B[m Cancel        (B[0;7mM-M(B[m Mac Format   (B[0;7mM-P(B[m Prepend      (B[0;7m^T(B[m Browse[K[30d(B[0;7mFile Name to Write: /root/git-practice/.git/COMMIT_EDITMSG            [30;59H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[30;28H[1K (B[0;7m[ Writing... ](B[m[K[1;58H(B[0;7m [69G(B[m[30;27H(B[0;7m[ Wrote 10 lines ](B[m[31;15H(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut        (B[0;7m^T(B[m Execut[32;2H(B[0;7mX(B[m Exit       (B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste      (B[0;7m^J(B[m Justify[?12l[?25h[2;5H[?25l[30d[J[32d[?12l[?25h[32;1H[?1049l[23;0;0t[?1l>[?2004l[K[master 0a5d5e8] done
+ Committer: root <root@TIGER03914.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 garbage
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git log[Cg
+[?2004lgit: 'logg' is not a git command. See 'git --help'.
+
+The most similar command is
+	log
+[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git logg[K
+[?2004l[?1h=[33mcommit 0a5d5e8fed8c9e09682f5073b117912d788e1348[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: root <root@TIGER03914.tigeranalytics.local>[m
+Date:   Tue Sep 6 12:52:38 2022 +0530[m
+[m
+    done[m
+[m
+[33mcommit cbced2cb9fea7154a6257188288d6588410547ac[m[m
+Author: root <root@TIGER03914.tigeranalytics.local>[m
+Date:   Tue Sep 6 12:50:49 2022 +0530[m
+[m
+    3nd Project version[m
+[m
+[33mcommit 144fd12b6c9909e4bf90eeed0c742f54eaa908a8[m[m
+Author: root <root@TIGER03914.tigeranalytics.local>[m
+Date:   Tue Sep 6 12:48:13 2022 +0530[m
+[m
+    2nd Project version[m
+[m
+[33mcommit 7c8c8c9f6b6e1e247c0dcc2f49021d74cf8c15c8[m[m
+Author: root <root@TIGER03914.tigeranalytics.local>[m
+Date:   Tue Sep 6 12:44:36 2022 +0530[m
+[m
+    Initial Project version[m
+[K[?1l>[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# git remote -v
+[?2004l[?2004h]0;root@TIGER03914: ~/git-practiceroot@TIGER03914:~/git-practice# exit
+[?2004lexit
+
+Script done on 2022-09-06 16:00:49+05:30 [COMMAND_EXIT_CODE="0"]
